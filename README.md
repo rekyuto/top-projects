@@ -5,6 +5,7 @@ Down below are links that lead to every project that I have made through The Odi
 ## Projects 
 (newest projects on top)
 
+### [Etch-A-Sketch](https://rekyuto.github.io/etch-a-sketch/)
 ### [Rock Paper Scissors](https://rekyuto.github.io/rock-paper-scissors/)
 ### [Landing Page](https://rekyuto.github.io/landing-page/)
 ### [Odin Recipes](https://rekyuto.github.io/odin-recipes/)
