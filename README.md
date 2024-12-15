@@ -5,6 +5,7 @@ Down below are links that lead to every project that I have made through The Odi
 ## Projects 
 (newest projects on top)
 
+### [Sign-up Form](https://rekyuto.github.io/sign-up-form/)
 ### [Calculator](https://rekyuto.github.io/calculator/)
 ### [Etch-A-Sketch](https://rekyuto.github.io/etch-a-sketch/)
 ### [Rock Paper Scissors](https://rekyuto.github.io/rock-paper-scissors/)
